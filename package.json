@@ -1,0 +1,17 @@
+{
+  "name": "2dlive-memeai",
+  "version": "1.0.0",
+  "description": "This is an AI virtual anchor interactive platform based on Live2D technology. Users can have real-time conversations and interactions with virtual characters。",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.0",
+    "terser": "^5.26.0"
+  }
+}
