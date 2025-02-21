@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 Project Link: [https://github.com/ArcReactor9/mina](https://github.com/ArcReactor9/mina)
-X Link: [https://x.com/ArcReactor9x](https://x.com/ArcReactor9x)
+
 ---
 <div align="center">
 Made with ❤️ by @ArcReactor9x
